@@ -61,7 +61,7 @@
     <jakarta.xml.bind.api.version>3.0.1</jakarta.xml.bind.api.version>
     <jakarta.xml.bind.impl.version>3.0.2</jakarta.xml.bind.impl.version>
     <jakarta.xml.jaxws.impl.version>3.0.2</jakarta.xml.jaxws.impl.version>
-    <jakarta.xml.ws.api.version>3.0.1</jakarta.xml.ws.api.version>
+    <jakarta.xml.ws.api.version>4.0.2</jakarta.xml.ws.api.version>
 
     <!-- TODO: Remove these javax.* entries? -->
     <javax.activation.impl.version>1.1.0.v201105071233</javax.activation.impl.version>
