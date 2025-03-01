@@ -144,7 +144,7 @@
     <settingsPath>src/it/settings.xml</settingsPath>
     <spring-boot.version>2.1.1.RELEASE</spring-boot.version>
     <surefire.rerunFailingTestsCount>0</surefire.rerunFailingTestsCount>
-    <testcontainers.version>1.16.1</testcontainers.version>
+    <testcontainers.version>1.20.5</testcontainers.version>
     <unix.socket.tmp></unix.socket.tmp>
   </properties>
 
