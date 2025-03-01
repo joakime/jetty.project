@@ -2620,7 +2620,7 @@
         </property>
       </activation>
       <properties>
-        <cbi-plugins.version>1.4.3</cbi-plugins.version>
+        <cbi-plugins.version>1.5.2</cbi-plugins.version>
       </properties>
       <pluginRepositories>
         <pluginRepository>
