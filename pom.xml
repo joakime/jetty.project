@@ -317,7 +317,7 @@
     <surefire.rerunFailingTestsCount>0</surefire.rerunFailingTestsCount>
     <swissbox.version>1.8.3</swissbox.version>
     <testcontainers.version>1.20.4</testcontainers.version>
-    <testng.version>7.10.2</testng.version>
+    <testng.version>7.11.0</testng.version>
     <tinybundles.version>3.0.0</tinybundles.version>
     <versions.maven.plugin.version>2.16.2</versions.maven.plugin.version>
     <wildfly.common.version>1.7.0.Final</wildfly.common.version>
