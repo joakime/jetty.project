@@ -268,7 +268,7 @@
     <!-- TODO: remove? -->
     <ee9.jakarta.ws.rs.api.version>3.0.0</ee9.jakarta.ws.rs.api.version>
     <ee9.jakarta.xml.bind.api.version>3.0.1</ee9.jakarta.xml.bind.api.version>
-    <ee9.jakarta.xml.bind.impl.version>3.0.2</ee9.jakarta.xml.bind.impl.version>
+    <ee9.jakarta.xml.bind.impl.version>4.0.5</ee9.jakarta.xml.bind.impl.version>
     <ee9.jakarta.xml.jaxws.impl.version>3.0.2</ee9.jakarta.xml.jaxws.impl.version>
     <ee9.jakarta.xml.ws.api.version>3.0.1</ee9.jakarta.xml.ws.api.version>
     <!-- TODO: Remove these javax.* entries? -->
