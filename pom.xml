@@ -337,7 +337,7 @@
     <localRepoPath>${project.build.directory}/local-repo</localRepoPath>
     <log4j2.version>2.24.2</log4j2.version>
     <logback.version>1.5.13</logback.version>
-    <lucene.version>9.9.2</lucene.version>
+    <lucene.version>10.1.0</lucene.version>
     <mariadb.docker.version>10.3.6</mariadb.docker.version>
     <mariadb.version>3.5.1</mariadb.version>
     <maven-artifact-transfer.version>0.13.1</maven-artifact-transfer.version>
