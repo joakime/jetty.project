@@ -345,7 +345,7 @@
     <maven-plugin.plugin.version>3.13.1</maven-plugin.plugin.version>
     <maven.antrun.plugin.version>3.1.0</maven.antrun.plugin.version>
     <maven.assembly.plugin.version>3.7.1</maven.assembly.plugin.version>
-    <maven.bundle.plugin.version>5.1.9</maven.bundle.plugin.version>
+    <maven.bundle.plugin.version>6.0.0</maven.bundle.plugin.version>
     <maven.checkstyle.plugin.version>3.6.0</maven.checkstyle.plugin.version>
     <maven.clean.plugin.version>3.4.0</maven.clean.plugin.version>
     <maven.compiler.createMissingPackageInfoClass>false</maven.compiler.createMissingPackageInfoClass>
