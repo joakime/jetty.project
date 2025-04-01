@@ -206,7 +206,7 @@
     <ee10.jakarta.xml.bind.api.version>4.0.2</ee10.jakarta.xml.bind.api.version>
     <ee10.jakarta.xml.bind.impl.version>4.0.5</ee10.jakarta.xml.bind.impl.version>
     <ee10.jakarta.xml.jaxws.impl.version>4.0.2</ee10.jakarta.xml.jaxws.impl.version>
-    <ee10.jakarta.xml.ws.api.version>4.0.1</ee10.jakarta.xml.ws.api.version>
+    <ee10.jakarta.xml.ws.api.version>4.0.2</ee10.jakarta.xml.ws.api.version>
     <ee10.jersey.version>3.1.10</ee10.jersey.version>
     <ee10.jsp.impl.version>10.1.31</ee10.jsp.impl.version>
     <ee10.mail.impl.version>2.0.1</ee10.mail.impl.version>
@@ -231,7 +231,7 @@
     <ee11.jakarta.xml.bind.api.version>4.0.2</ee11.jakarta.xml.bind.api.version>
     <ee11.jakarta.xml.bind.impl.version>4.0.5</ee11.jakarta.xml.bind.impl.version>
     <ee11.jakarta.xml.jaxws.impl.version>4.0.2</ee11.jakarta.xml.jaxws.impl.version>
-    <ee11.jakarta.xml.ws.api.version>4.0.1</ee11.jakarta.xml.ws.api.version>
+    <ee11.jakarta.xml.ws.api.version>4.0.2</ee11.jakarta.xml.ws.api.version>
     <ee11.jersey.version>4.0.0-M2</ee11.jersey.version>
     <ee11.jsp.impl.version>11.0.4</ee11.jsp.impl.version>
     <ee11.mail.impl.version>2.0.1</ee11.mail.impl.version>
@@ -270,7 +270,7 @@
     <ee9.jakarta.xml.bind.api.version>3.0.1</ee9.jakarta.xml.bind.api.version>
     <ee9.jakarta.xml.bind.impl.version>3.0.2</ee9.jakarta.xml.bind.impl.version>
     <ee9.jakarta.xml.jaxws.impl.version>3.0.2</ee9.jakarta.xml.jaxws.impl.version>
-    <ee9.jakarta.xml.ws.api.version>3.0.1</ee9.jakarta.xml.ws.api.version>
+    <ee9.jakarta.xml.ws.api.version>4.0.2</ee9.jakarta.xml.ws.api.version>
     <!-- TODO: Remove these javax.* entries? -->
     <ee9.javax.activation.impl.version>1.1.0.v201105071233</ee9.javax.activation.impl.version>
     <ee9.javax.mail.glassfish.version>1.4.1.v201005082020</ee9.javax.mail.glassfish.version>
