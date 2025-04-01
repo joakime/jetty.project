@@ -44,8 +44,3 @@ updates:
       interval: "daily"
     commit-message:
       prefix: "[12.1.x] "
-
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "weekly"
